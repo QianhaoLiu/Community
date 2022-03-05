@@ -1,0 +1,5 @@
+2022-03-04 19:14:01,229 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests using Java 1.8.0_271 on INSECTYLIU-MB0 with PID 6515 (started by liuchunyi in /Users/liuchunyi/Documents/community)
+2022-03-04 19:14:01,232 INFO [main] c.n.c.LoggerTests [SpringApplication.java:675] No active profile set, falling back to 1 default profile: "default"
+2022-03-04 19:14:02,991 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-04 19:14:03,333 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 2.823 seconds (JVM running for 3.785)
+2022-03-04 19:14:03,531 INFO [main] c.n.c.LoggerTests [LoggerTests.java:20] info log
