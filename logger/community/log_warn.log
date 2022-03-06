@@ -1,1 +1,18 @@
-2022-03-04 19:14:03,531 WARN [main] c.n.c.LoggerTests [LoggerTests.java:21] warn log
+2022-03-05 00:20:30,144 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:780] HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s806ms), soft-evicting connections from pool.
+2022-03-05 00:26:00,025 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:780] HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s848ms), soft-evicting connections from pool.
+2022-03-05 03:27:32,711 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:780] HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s865ms), soft-evicting connections from pool.
+2022-03-05 06:44:05,208 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:780] HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s866ms), soft-evicting connections from pool.
+2022-03-05 16:01:42,712 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:780] HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s858ms), soft-evicting connections from pool.
+2022-03-05 17:47:14,048 WARN [HikariPool-1 housekeeper] c.z.h.p.HikariPool [HikariPool.java:780] HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s846ms), soft-evicting connections from pool.
+2022-03-05 23:57:25,771 WARN [restartedMain] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext [AbstractApplicationContext.java:591] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'alphaController' method 
+com.nowcoder.community.controller.AlphaController#getSession(HttpSession)
+to {GET [/alpha/session/set]}: There is already 'alphaController' bean method
+com.nowcoder.community.controller.AlphaController#setSession(HttpSession) mapped.
+2022-03-05 23:57:36,769 WARN [restartedMain] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext [AbstractApplicationContext.java:591] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'alphaController' method 
+com.nowcoder.community.controller.AlphaController#setSession(HttpSession)
+to {GET [/alpha/session/set]}: There is already 'alphaController' bean method
+com.nowcoder.community.controller.AlphaController#getSession(HttpSession) mapped.
+2022-03-05 23:58:02,597 WARN [restartedMain] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext [AbstractApplicationContext.java:591] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Invocation of init method failed; nested exception is java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'alphaController' method 
+com.nowcoder.community.controller.AlphaController#getSession(HttpSession)
+to {GET [/alpha/session/set]}: There is already 'alphaController' bean method
+com.nowcoder.community.controller.AlphaController#setSession(HttpSession) mapped.

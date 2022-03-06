@@ -1,0 +1,49 @@
+2022-03-04 19:14:01,229 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests using Java 1.8.0_271 on INSECTYLIU-MB0 with PID 6515 (started by liuchunyi in /Users/liuchunyi/Documents/community)
+2022-03-04 19:14:01,232 INFO [main] c.n.c.LoggerTests [SpringApplication.java:675] No active profile set, falling back to 1 default profile: "default"
+2022-03-04 19:14:02,991 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-04 19:14:03,333 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 2.823 seconds (JVM running for 3.785)
+2022-03-04 19:14:03,531 INFO [main] c.n.c.LoggerTests [LoggerTests.java:20] info log
+2022-03-04 22:06:11,162 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_271 on INSECTYLIU-MB0 with PID 7604 (started by liuchunyi in /Users/liuchunyi/Documents/community)
+2022-03-04 22:06:11,164 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to 1 default profile: "default"
+2022-03-04 22:06:13,233 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-04 22:06:13,600 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 4.078 seconds (JVM running for 5.269)
+2022-03-04 22:07:28,290 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_271 on INSECTYLIU-MB0 with PID 7618 (started by liuchunyi in /Users/liuchunyi/Documents/community)
+2022-03-04 22:07:28,291 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to 1 default profile: "default"
+2022-03-04 22:07:29,934 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-04 22:07:30,229 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.665 seconds (JVM running for 3.473)
+2022-03-04 22:10:17,762 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_271 on INSECTYLIU-MB0 with PID 7642 (started by liuchunyi in /Users/liuchunyi/Documents/community)
+2022-03-04 22:10:17,764 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to 1 default profile: "default"
+2022-03-04 22:10:19,689 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-04 22:10:20,028 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.934 seconds (JVM running for 3.902)
+2022-03-04 22:10:42,904 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_271 on INSECTYLIU-MB0 with PID 7646 (started by liuchunyi in /Users/liuchunyi/Documents/community)
+2022-03-04 22:10:42,906 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to 1 default profile: "default"
+2022-03-04 22:10:44,520 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-04 22:10:44,846 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.3 seconds (JVM running for 3.136)
+2022-03-04 22:13:42,399 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_271 on INSECTYLIU-MB0 with PID 7660 (started by liuchunyi in /Users/liuchunyi/Documents/community)
+2022-03-04 22:13:42,401 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to 1 default profile: "default"
+2022-03-04 22:13:44,237 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-04 22:13:44,543 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.684 seconds (JVM running for 3.611)
+2022-03-04 22:20:29,763 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_271 on INSECTYLIU-MB0 with PID 7694 (started by liuchunyi in /Users/liuchunyi/Documents/community)
+2022-03-04 22:20:29,765 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to 1 default profile: "default"
+2022-03-04 22:20:31,522 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-04 22:20:31,873 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 3.066 seconds (JVM running for 3.841)
+2022-03-04 22:20:59,267 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_271 on INSECTYLIU-MB0 with PID 7701 (started by liuchunyi in /Users/liuchunyi/Documents/community)
+2022-03-04 22:20:59,269 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to 1 default profile: "default"
+2022-03-04 22:21:00,897 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-04 22:21:01,182 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.245 seconds (JVM running for 3.08)
+2022-03-04 22:25:05,219 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_271 on INSECTYLIU-MB0 with PID 7727 (started by liuchunyi in /Users/liuchunyi/Documents/community)
+2022-03-04 22:25:05,220 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to 1 default profile: "default"
+2022-03-04 22:25:06,707 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-04 22:25:07,036 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.48 seconds (JVM running for 3.247)
+2022-03-04 22:31:05,917 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_271 on INSECTYLIU-MB0 with PID 7760 (started by liuchunyi in /Users/liuchunyi/Documents/community)
+2022-03-04 22:31:05,919 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to 1 default profile: "default"
+2022-03-04 22:31:07,703 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-04 22:31:08,045 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 3.76 seconds (JVM running for 4.654)
+2022-03-04 22:37:59,710 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_271 on INSECTYLIU-MB0 with PID 7806 (started by liuchunyi in /Users/liuchunyi/Documents/community)
+2022-03-04 22:37:59,712 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to 1 default profile: "default"
+2022-03-04 22:38:01,514 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-04 22:38:01,852 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.675 seconds (JVM running for 3.56)
+2022-03-04 22:45:24,207 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 1.8.0_271 on INSECTYLIU-MB0 with PID 7860 (started by liuchunyi in /Users/liuchunyi/Documents/community)
+2022-03-04 22:45:24,209 INFO [main] c.n.c.MailTests [SpringApplication.java:675] No active profile set, falling back to 1 default profile: "default"
+2022-03-04 22:45:26,085 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-04 22:45:26,417 INFO [main] c.n.c.MailTests [StartupInfoLogger.java:61] Started MailTests in 2.738 seconds (JVM running for 3.727)
